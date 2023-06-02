@@ -1,4 +1,8 @@
 # HR Analytics: Descriptive, Predictive and Prescriptive Analysis of Employee Turnover
+
++ [View The Notebook For Analysis Here](https://colab.research.google.com/drive/1KXKznf6grvLrY9bl-5G8g2nVeoXCLERx?usp=sharing)
+
+
 Company X has an attrition problem. Employee turnover is a serious problem for a company, it costs the company approximately 20% of that employee's salary to replace them. Not to mention the time and loss in productivity. Company X's HR department has given some data about their employees both existing employees and those who left. They want to have insights as to why employees are leaving, but most importantly they want a predictive model to say which employees are likely to leave.
 
 ### What is employee attrition?
